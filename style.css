@@ -2,3 +2,13 @@ svg {
   display: inline-block;
   margin-right: 2px;
 }
+
+.axis line {
+  stroke: black;
+}
+
+.axis text {
+  font-family: sans-serif;
+  font-size: 11px;
+  fill: black;
+}
